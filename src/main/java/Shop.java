@@ -1,3 +1,5 @@
+import entities.MyAnnotationTest;
+
 @MyAnnotationTest(message = "Kate1")
 public class Shop {
     private int number;
